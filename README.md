@@ -67,10 +67,3 @@ Solved Sudoku:
 2 4 7 | 7 2 3 | 1 8 6
 3 6 5 | 4 1 8 | 9 2 7
 ```
-
-## Contributions
-Feel free to modify or enhance the code. If you find any issues or have improvements, feel free to submit a pull request!
-
-## License
-This project is open-source and available for use under the MIT License.
-
